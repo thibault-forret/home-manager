@@ -1,16 +1,18 @@
-# home_manager
+# 🏠 Home Manager
 
-A new Flutter project.
+## 📖 Contexte
+Projet personnel visant à faciliter la gestion des tâches domestiques.
 
-## Getting Started
+## 👥 Membres du projet
+- Thibault Forret
+- Quentin Massoulle
 
-This project is a starting point for a Flutter application.
+## 📝 Description
+Home Manager est une application mobile conçue pour aider les utilisateurs à organiser et suivre les tâches ménagères, les courses et autres responsabilités domestiques. Elle permet de créer des listes de tâches, d'assigner des responsabilités aux membres du foyer et de recevoir des rappels pour assurer une gestion efficace du ménage.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies utilisées
+- **Frontend** : Flutter
+- **Backend** : API Laravel
+- **Base de données** : MariaDB
+- **Outils** : Docker
+- **Plateformes cibles** : iOS et Android
